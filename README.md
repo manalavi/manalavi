@@ -32,11 +32,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### 🛠 &nbsp;Languages and Tools :
 
-  - Reactjs
-  - Nodejs
-  - Expressjs
-  - Typescript
   - Javascript
+  - Golang
+  - Nodejs
+  - Typescript
+  - Reactjs
 
 ---
 
